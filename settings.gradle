@@ -1,0 +1,2 @@
+rootProject.name='Todo App Java youtube'
+include ':app'
